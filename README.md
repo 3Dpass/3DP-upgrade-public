@@ -14,7 +14,7 @@ The upgrade includes:
 - All the validators ignoring the upgrade will be removed out of the validator set with the penalty of 20000 P3D
 - The sourcecodes will be released after the migration is completed
 
-We hope, 3DPass community will support this important securitty upgrade.
+We hope, 3DPass community will support this important security upgrade.
 
 ## Upgrade your nodes! 
 

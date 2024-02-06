@@ -6,7 +6,7 @@ The upgrade includes:
 - Migration to Grid2d_v3a for miners (SOLO and mining pool trait)
 - Mining pool trait fixes
 - Atomic swap feature, which comes after the migration
-- 
+  
 ## This is a major upgrade, which is mandatory for everyone! 
  
 - The upgrade period: 2 days (by February 7th, 2024)
